@@ -2,7 +2,7 @@
 Repository for Inventory Management System.
 <h3>Category.py</h3>
 <hr>
-This screen collects and the product information about catagory of product. 
+This screen collects and  information about catagory of product. 
 <br>
 <b>EX : </b>
 For IPhone category is Phone.
