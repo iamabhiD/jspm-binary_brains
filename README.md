@@ -27,7 +27,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - Buttons are functionalised accordingly.
 - You can search a product by its `category`, `supplier` or `name`.
 
-  ### 5. category.py
+### 5. category.py
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
 - This screen contains 2 buttons namely `add` and `View`. These buttons are functionalised accordingly.
 
@@ -35,11 +35,11 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - This screen stores and shows the bills by an `invoice no`.
 - Buttons are functionalised accordingly.
 
-- ### 7. creat_db.py
+### 7. creat_db.py
 - This is the database file for all the tables.
 - You have to run this file `first` before running the `dashboard.py` file otherwise it will throw an error.
 
-- ### 8. billing.py
+### 8. billing.py
 - This screen contains all the billing part.
 - This screen contains information regarding the `products`, `customers`, `the products they are buying`, `billing structure`, `price of product`, `discout on the products`.
 - This screen also contains a `calculator` to calculate the total amount.
